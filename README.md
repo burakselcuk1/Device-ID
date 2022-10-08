@@ -4,7 +4,7 @@
 
 ![DDD](https://user-images.githubusercontent.com/89164849/194720400-d12eb2f0-1c6f-4eff-ba82-690e499c7672.jpg)
 
-
+ <img src="https://avatars.githubusercontent.com/u/89164849?v=4" width="70" align="left">
 
 ## 👨 Developed By Burak Selcuk
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/burak-sel%C3%A7uk-a4740b218/)
